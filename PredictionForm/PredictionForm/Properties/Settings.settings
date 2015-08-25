@@ -1,0 +1,13 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="PredictionForm.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Sport" Type="System.String" Scope="User">
+      <Value Profile="(Default)">NFL</Value>
+    </Setting>
+    <Setting Name="ConnectionString" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Server=myServerAddress;Database=myDataBase;User Id=myUsername;
+Server=.;Database=Predictions;User Id=Predictor;Password=PredictionEngine;</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
